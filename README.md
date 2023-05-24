@@ -24,3 +24,7 @@ Eachpizza_id has a standard set of toppings which are used as part of the pizza 
 ### Table 6: pizza_toppings
 This table contains all of the topping_name values with their corresponding topping_id value
 ## INSIGHT
+* Meat_lovers sells more than vegetarian
+* Wednesdays and saturdays are the days with the highest sales
+* customers order pizzas more into the day and in the evening than early morning hours
+* Many of the pizzas ordered had either exclusions or extras perhaps it is time to add another type of pizza with a different ingredients
