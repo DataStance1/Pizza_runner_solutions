@@ -32,3 +32,13 @@ This table contains all of the topping_name values with their corresponding topp
 * Cheese is the most common exclusion
 * Meat lovers orders have more alteration to their ingredients than vegetarian orders with cheese being excluded most and bacon being added most.
 * The most used ingredients is Bacon
+## RECOMMENDATIONS
+* Danny Ma's runners travelled long distance to deliver the pizza which is not very ideal for a starting business. Danny Ma should consider creating an advert to target people closer to the pizza factory
+* Since there is always and alteration in the pizza ingredients, it is quite about time to introduce a new pizza type with a different recipe based on the popular alterations 
+* Danny ma should develop an effective way of collecting customer feedback as this very important for a budding business
+* Since Bacon is the commonly used ingredients, danny ma should ensure not run out of it.
+* Danny should look into the preparation and delivery time of the ordered pizza. Pizza with Order_id 8 took a long time to deliver
+* Introduction of the new pizza type - Supreme should be followed with advertisement
+* Danny should have a discount or loyalty program for repeated customers
+## CONCLUSION
+Danny should implement these recommendations to keep the business afloat. So far, the business is performing well for a start but more work need to be done to unlock the limitless possibilities of the business. Thank you and happy pizza day!
