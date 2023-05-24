@@ -28,3 +28,7 @@ This table contains all of the topping_name values with their corresponding topp
 * Wednesdays and saturdays are the days with the highest sales
 * customers order pizzas more into the day and in the evening than early morning hours
 * Many of the pizzas ordered had either exclusions or extras perhaps it is time to add another type of pizza with a different ingredients
+*  Bacon is the most commonly added extra
+* Cheese is the most common exclusion
+* Meat lovers orders have more alteration to their ingredients than vegetarian orders with cheese being excluded most and bacon being added most.
+* The most used ingredients is Bacon
